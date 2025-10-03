@@ -4,4 +4,8 @@
     <migrationTask xmi:id="_o5tp0KBOEfCS5-IxJCqDWw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_o5DigKBOEfCS5-IxJCqDWw" login="nicolasfenouil@ampmetropole.fr" firstName="Nicolas" lastName="Fenouil" type="DI"/>
+  <TalendProperties:User xmi:id="_k0PMwKBPEfC07fGlWZN7bA" login="ousmane.badiane@ampmetropole.fr" firstName="Ousmane" lastName="Badiane" type="DI"/>
+  <TalendProperties:User xmi:id="_k0PMwaBPEfC07fGlWZN7bA" login="helene.passini@ampmetropole.fr" firstName="Helene" lastName="Passini" type="DI"/>
+  <TalendProperties:User xmi:id="_k0PMwqBPEfC07fGlWZN7bA" login="manel.mokrani@ampmetropole.fr" firstName="Manel" lastName="Mokrani" type="DI"/>
+  <TalendProperties:User xmi:id="_k0PMw6BPEfC07fGlWZN7bA" login="rizlene.benayed@ampmetropole.fr" firstName="Rizlene" lastName="Benayed" type="DI"/>
 </xmi:XMI>
